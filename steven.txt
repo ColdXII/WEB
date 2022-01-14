@@ -1,1 +1,24 @@
-skskksksksk
+(WEB)
+
+Bagian pemrograman dasar yang belum saya pahami
+  
+  * Perulangan (For, ForEach, While, Do-While)
+  * Struktur kontrol keputusan (if..esle, else if, else. operator tenary, switch case)
+  * Array
+  
+Bagian pemrograman OOP yang tidak saya pahami
+  * Polymorphism
+  * Dependency Injection
+  
+(OBJEK)
+
+Bagian pemrograman dasar yang belum saya pahami
+  
+  * Perulangan (For, ForEach, While, Do-While)
+  * Struktur kontrol keputusan (if..esle, else if, else. operator tenary, switch case)
+  * Array
+  
+Bagian pemrograman OOP yang tidak saya pahami
+  * Polymorphism
+  * Dependency Injection
+  
